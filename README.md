@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Inventory Control**
 
-- 🌱 I’m currently learning **Laravel , React , Msqyl**
+- 🌱 I’m currently learning **Laravel , React , Mysql**
 
 - 📫 How to reach me **cauejoseof@gmail.com**
 
