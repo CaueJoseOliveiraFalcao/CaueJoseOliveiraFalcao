@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cauê</h1>
 <h3 align="center">Full Stack Student</h3>
 
-- 🔭 I’m currently working on **Inventory Control**
+- 🔭 I’m currently working on **Rewards Register System**
 
-- 🌱 I’m currently learning **Laravel , React , Mysql**
+- 🌱 I’m currently learning **AWS , Laravel , Java**
 
 - 📫 How to reach me **cauejoseof@gmail.com**
 
