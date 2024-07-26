@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **cauejoseof@gmail.com**
 
-- 💻technologies that I know: **HTML , CSS , REACT ,NODE ,  PYTHON , PHP , LARAVEL , AWS **
+- 💻technologies that I know: **HTML , CSS , REACT ,NODE ,NEXT, PYTHON , PHP , LARAVEL , AWS **
 
 <p align="left">
 </p>
